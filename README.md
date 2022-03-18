@@ -1,2 +1,2 @@
-# calculator
-Practice on JS
+# Simple-Calculator
+Practice on Javascript
